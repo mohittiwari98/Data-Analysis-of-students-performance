@@ -4,6 +4,18 @@
 ## Overview
 This project analyzes student performance data to explore relationships between academic scores (Math, Reading, Writing) and various demographic factors such as ethnic group, parental education, and parental marital status. The analysis uses Python libraries including NumPy, Pandas, Matplotlib, and Seaborn to process data, generate visualizations, and derive insights.
 
+
+## Tools and Modules 
+![](https://img.shields.io/badge/Programming_Language-Python-cyan.svg)
+![](https://img.shields.io/badge/Tool_Used-matplotlib-orange.svg)
+![](https://img.shields.io/badge/Tool_Used-seaborn-darkblue.svg)
+![](https://img.shields.io/badge/Tool_Used-pandas-pink.svg)
+![](https://img.shields.io/badge/Tool_Used-numpy-darkpink.svg)
+![](https://img.shields.io/badge/Python_Version-3.10.1-blue.svg)
+![](https://img.shields.io/badge/Application-Analysis-lemon.svg)
+![](https://img.shields.io/badge/Status-Complete-green.svg)
+
+
 ## Dataset
 The dataset (`Expanded_data_with_more_features.csv`) contains student information, including:
 - Gender
