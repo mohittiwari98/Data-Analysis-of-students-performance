@@ -27,10 +27,31 @@ The dataset (`Expanded_data_with_more_features.csv`) contains student informatio
 - Other features like test preparation and lunch type
 
 ## Analysis Objectives
+
+ <div align="center">
+  <img src="Capture128.PNG" alt="DevOpsShack Banner">
+</div>
+
 - Examine the distribution of students across ethnic groups.
+  
+   <div align="center">
+  <img src="Capture127.PNG" alt="DevOpsShack Banner">
+</div>
+
 - Investigate the impact of parental education on average student scores.
+  
+  <div align="center">
+  <img src="Capture125.PNG" alt="DevOpsShack Banner">
+</div>
+
 - Analyze the influence of parental marital status on academic performance.
+  
+   <div align="center">
+  <img src="Capture126.PNG" alt="DevOpsShack Banner">
+</div>
+
 - Identify patterns in math scores using descriptive statistics and visualizations.
+ 
 
 ## Code Description
 The Python script performs the following steps:
