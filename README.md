@@ -1,6 +1,5 @@
 # Data-Analysis-of-students-performance
 
-
 ## Overview
 This project analyzes student performance data to explore relationships between academic scores (Math, Reading, Writing) and various demographic factors such as ethnic group, parental education, and parental marital status. The analysis uses Python libraries including NumPy, Pandas, Matplotlib, and Seaborn to process data, generate visualizations, and derive insights.
 
